@@ -1,9 +1,13 @@
-- Congrats to Dr. Truth as Mayor.
+- 1 Crafting table has been added to the map which will allow you to craft thermite.
 
-- Created XMAS Themed Loading Screen.
+- Stress system added. Actions around the city will now give stress and relieve stress.
 
-- Fixed Boat Shop: Players can now target from the dock, fixed test driving).
+- Fixed issue where chop chop wouldn't give all materials since it would flood your pockets with too many now gives rolls of money after.
 
-- Private Garages: Fixed Prices that still were valued at $99999999 + added new locations.
+- Changes to reward pool for house robberies as well as the skillchecks.
 
-- TIBUS 2.0 Updates - Refer to #updates channel in discord.
+- Remove gang territories.
+
+- Balanced Desert Eagle and Shotguns
+
+- Added Snow mobiles to scooter rental locations.
